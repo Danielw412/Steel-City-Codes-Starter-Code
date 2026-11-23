@@ -1,3 +1,5 @@
+Phase 2 · Project 05 of 10 · Previous: [Chatbot](../04_chatbot/) · Next: [Hangman](../06_hangman/)
+
 # Tic-Tac-Toe
 
 ## Project Description

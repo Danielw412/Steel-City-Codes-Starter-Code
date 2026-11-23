@@ -1,3 +1,5 @@
+Phase 3 · Project 09 of 10 · Previous: [Connect 4](../08_connect_4/) · Next: [Arcade GUI](../../phase_3_5_arcade_gui/10_arcade_gui/)
+
 # Adventure Map
 
 ## Project Description

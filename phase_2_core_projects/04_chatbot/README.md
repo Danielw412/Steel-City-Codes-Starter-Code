@@ -1,3 +1,5 @@
+Phase 2 · Project 04 of 10 · Previous: [Calculator](../../phase_1_warm_up/03_calculator/) · Next: [Tic-Tac-Toe](../05_tic_tac_toe/)
+
 # Chatbot
 
 ## Project Description

@@ -1,3 +1,5 @@
+Phase 2 · Project 06 of 10 · Previous: [Tic-Tac-Toe](../05_tic_tac_toe/) · Next: [Minesweeper](../../phase_3_final_project/07_minesweeper/)
+
 # Hangman
 
 ## Project Description

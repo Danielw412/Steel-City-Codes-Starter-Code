@@ -1,3 +1,5 @@
+Phase 3 · Project 08 of 10 · Previous: [Minesweeper](../07_minesweeper/) · Next: [Adventure Map](../09_adventure_map/)
+
 # Connect 4
 
 ## Project Description

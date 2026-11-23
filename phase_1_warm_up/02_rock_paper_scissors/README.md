@@ -1,3 +1,5 @@
+Phase 1 · Project 02 of 10 · Previous: [Magic 8 Ball](../01_magic_8_ball/) · Next: [Calculator](../03_calculator/)
+
 # Rock Paper Scissors
 
 ## Project Description
