@@ -1,3 +1,5 @@
+Phase 1 · Project 01 of 10 · Previous: [Course overview](../../README.md) · Next: [Rock Paper Scissors](../02_rock_paper_scissors/)
+
 # Magic 8 Ball
 
 ## Project Description
